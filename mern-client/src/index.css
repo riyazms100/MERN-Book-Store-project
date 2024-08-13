@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg-white {
+    background-color: #00000000 !important; /* Override as needed */
+  }
+ 
